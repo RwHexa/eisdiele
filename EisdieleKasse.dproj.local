@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.179,C:\Anwendungen\EisdieleNeu\EisdieleKasse.html=C:\Users\rwwer\Documents\Embarcadero\Studio\Projekte\Project1.html</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.436,C:\Anwendungen\EisdieleNeu\UMain.dfm=C:\Users\rwwer\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.349,=C:\Users\rwwer\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.841,=C:\Users\rwwer\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.436,C:\Anwendungen\EisdieleNeu\UMain.html=C:\Users\rwwer\Documents\Embarcadero\Studio\Projekte\Unit1.html</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,=C:\Users\rwwer\Documents\Embarcadero\Studio\Projekte\Project1.html</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.403,=C:\Users\rwwer\Documents\Embarcadero\Studio\Projekte\Project1.html</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.726,C:\Anwendungen\EisdieleNeu\EisdieleKasse.dproj=C:\Users\rwwer\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.436,C:\Anwendungen\EisdieleNeu\UMain.pas=C:\Users\rwwer\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
